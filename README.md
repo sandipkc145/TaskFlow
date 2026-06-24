@@ -1,6 +1,6 @@
 ## What kind of  project is this ?
 
-    In simple terms, StudyFlow is a personal study tracker app built with React and tailwind. It let you manage and know your ability of focused time on study.
+    In simple terms, TaskFlow is a personal study tracker app built with React and tailwind. It let you manage and know your ability of focused time on study.
 
     => ⚠️Note⚠️: This project is still in progress. Currently, you can view the dashboard, static record sessions, and navigate pages. Full Add/Edit/Delete functionality will be added later with the responsiveness.
 
@@ -41,7 +41,7 @@
 
 ## How I Made This Project 🛠️
 
-> 💡 Building StudyFlow was both exciting and challenging. Here’s a detailed look into my process:  
+> 💡 Building TaskFlow was both exciting and challenging. Here’s a detailed look into my process:  
 
 > 1. **Planning the Layout**  
 >    I started by designing the main layout with three areas: Header (`Welcome`), Sidebar, and Hero (dynamic content).  
